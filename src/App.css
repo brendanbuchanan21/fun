@@ -1,0 +1,15 @@
+.app-container {
+  display: flex;
+  justify-content: center;
+  height: 100vh;
+  border: 5px solid orange;
+  width: auto;
+  padding-top: 3rem;
+}
+
+.title-container {
+  text-align: center;
+  border: 2px solid black;
+  height: 6rem;
+  width: auto;
+}
